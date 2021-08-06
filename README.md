@@ -9,9 +9,9 @@
 
 ## Screens
 
-<img src="./img/screen1.png">
+<img src="./img/screen1.PNG">
 <br/>
-<img src="./img/screen2.png">
+<img src="./img/screen2.PNG">
 
 
 
