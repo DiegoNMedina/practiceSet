@@ -1,0 +1,23 @@
+
+.posts {
+    margin: 30px auto;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-gap: 10px;
+    align-items: center;
+    text-align: center;
+}
+.post {
+    margin: 20px auto;
+    padding: 20px;
+    background: #212529;
+    color: aliceblue;
+    align-items: center;
+
+}
+
+.post-img {
+    width: 350px;
+    height: 200px;
+    align-items: center;
+}
